@@ -1,0 +1,12 @@
+{
+  "criteria": {
+    "golbo_sample": {
+      "conditions": {
+        "item": {
+          "items": "zoolimstuff:golbo_sample"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "zoolimstuff:block/tiles/tiles_block0",
+        "weight": 5
+      },
+      {
+        "model": "zoolimstuff:block/tiles/tiles_block1",
+        "weight": 2
+      },
+      {
+        "model": "zoolimstuff:block/tiles/tiles_block2",
+        "weight": 4
+      }
+    ]
+  }
+}

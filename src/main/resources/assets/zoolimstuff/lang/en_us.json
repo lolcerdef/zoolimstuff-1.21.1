@@ -1,0 +1,18 @@
+{
+  "item.zoolimstuff.clipping_pen": "Clipping Pen",
+  "item.zoolimstuff.clipping_pen_internals": "Clipping Pen Internals",
+  "item.zoolimstuff.golbo_sample": "Golbo Sample",
+  "item.zoolimstuff.longlegs_head": "Longlegs Head Sample",
+  "item.zoolimstuff.longlegs_leg": "Longlegs Leg Sample",
+
+  "itemGroup.zoolim_stuff": "Zoolim Stuff",
+
+  "block.zoolimstuff.brutalian_concrete": "Brutalian Concrete",
+  "block.zoolimstuff.tiles": "Tiles",
+  "block.zoolimstuff.white_hole": "White Hole",
+  "block.zoolimstuff.pseudo_dirt": "Pseudo Dirt",
+  "block.zoolimstuff.pseudo_grass": "Pseudo Grass Block",
+
+  "entity.mccourse.golbo": "Golbo",
+  "entity.mccourse.longlegs": "Longlegs"
+}
